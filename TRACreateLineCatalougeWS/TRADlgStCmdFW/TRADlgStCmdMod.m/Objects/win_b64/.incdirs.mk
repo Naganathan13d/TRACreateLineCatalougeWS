@@ -1,0 +1,6 @@
+/I"C:\Users\Dell\Downloads\TRACreateLineWS\TRACreateLineWS\.\TRADlgStCmdFW\TRADlgStCmdMod.m\src"
+/I"C:\Users\Dell\Downloads\TRACreateLineWS\TRACreateLineWS\.\TRADlgStCmdFW\TRADlgStCmdMod.m\LocalInterfaces"
+/I"C:\Users\Dell\Downloads\TRACreateLineWS\TRACreateLineWS\.\TRADlgStCmdFW\TRADlgStCmdMod.m\LocalGenerated\win_b64"
+/I"C:\Users\Dell\Downloads\TRACreateLineWS\TRACreateLineWS\.\TRADlgStCmdFW\ProtectedInterfaces"
+/I"C:\Users\Dell\Downloads\TRACreateLineWS\TRACreateLineWS\.\TRADlgStCmdFW\PublicInterfaces"
+/I"C:\Users\Dell\Downloads\TRACreateLineWS\TRACreateLineWS\.\TRADlgStCmdFW\ImportedInterfaces\win_b64"

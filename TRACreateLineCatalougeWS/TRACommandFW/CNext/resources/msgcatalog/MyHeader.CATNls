@@ -1,0 +1,5 @@
+MyHeader.CreateLineHdr.Title     = "CreateLine" ;
+MyHeader.CreateLineHdr.ShortHelp = "Naga CreateLine" ;
+MyHeader.CreateLineHdr.Help      = "Creates a Line from two points" ;
+MyHeader.CreateLineHdr.LongHelp  = "Creates a Line by selecting two points" ;
+MyHeader.CreateLineHdr.Category  = "Insert" ;

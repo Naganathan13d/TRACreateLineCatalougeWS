@@ -1,0 +1,8 @@
+!<mkRTViewData> v1.0.0
+BTV/002/DSI .\win_b64\code\productIC\TRADlgStCmdFWIC.xml|.\TRADlgStCmdFW
+RTV/002/DSI .\win_b64\code\productIC\TRADlgStCmdFWIC.required|.\TRADlgStCmdFW
+DAT/002/CUS .\win_b64\code\dictionary\TRADlgStCmdFW.dico|.\TRADlgStCmdFW\CNext\code\dictionary\TRADlgStCmdFW.dico
+DAT/002/CUS .\win_b64\resources\msgcatalog\TRACreateLineStCmd.CATNls|.\TRADlgStCmdFW\CNext\resources\msgcatalog\TRACreateLineStCmd.CATNls
+BTV/002/CUS .\win_b64\code\productIC\TRADlgStCmdFWIC.script|.\TRADlgStCmdFW
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\TRACreateLineStCmd.CATNls|.\TRADlgStCmdFW\CNext\resources\msgcatalog\TRACreateLineStCmd.CATNls
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\TRACreateLineStCmd.CATNls|.\TRADlgStCmdFW\CNext\resources\msgcatalog\TRACreateLineStCmd.CATNls

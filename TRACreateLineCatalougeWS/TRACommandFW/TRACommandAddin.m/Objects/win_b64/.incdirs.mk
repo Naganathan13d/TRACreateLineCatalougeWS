@@ -1,0 +1,5 @@
+/I"D:\CAA\TRACreateLineWS\.\TRACommandFW\TRACommandAddin.m\src"
+/I"D:\CAA\TRACreateLineWS\.\TRACommandFW\TRACommandAddin.m\LocalInterfaces"
+/I"D:\CAA\TRACreateLineWS\.\TRACommandFW\TRACommandAddin.m\LocalGenerated\win_b64"
+/I"D:\CAA\TRACreateLineWS\.\TRACommandFW\PublicInterfaces"
+/I"D:\CAA\TRACreateLineWS\.\TRACommandFW\ImportedInterfaces\win_b64"

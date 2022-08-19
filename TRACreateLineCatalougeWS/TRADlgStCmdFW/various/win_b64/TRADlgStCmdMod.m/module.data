@@ -1,0 +1,5 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\bin\TRADlgStCmdMod.pdb|.\TRADlgStCmdFW\TRADlgStCmdMod.m
+RTV/001/CUS .\win_b64\code\bin\TRADlgStCmdMod.dll|.\TRADlgStCmdFW\TRADlgStCmdMod.m
+INT/000/CUS .\win_b64\code\lib\TRADlgStCmdMod.exp|.\TRADlgStCmdFW\TRADlgStCmdMod.m
+BTV/000/CUS .\win_b64\code\lib\TRADlgStCmdMod.lib|.\TRADlgStCmdFW\TRADlgStCmdMod.m

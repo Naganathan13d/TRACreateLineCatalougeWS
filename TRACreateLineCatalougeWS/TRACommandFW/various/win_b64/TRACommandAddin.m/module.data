@@ -1,0 +1,5 @@
+!<mkRTViewData> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\TRACommandAddin.dll|.\TRACommandFW\TRACommandAddin.m
+INT/000/CUS .\win_b64\code\lib\TRACommandAddin.exp|.\TRACommandFW\TRACommandAddin.m
+BTV/000/CUS .\win_b64\code\lib\TRACommandAddin.lib|.\TRACommandFW\TRACommandAddin.m
+INT/000/CUS .\win_b64\code\bin\TRACommandAddin.pdb|.\TRACommandFW\TRACommandAddin.m

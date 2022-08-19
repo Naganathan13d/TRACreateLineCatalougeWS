@@ -1,0 +1,5 @@
+!<mkRTViewData> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\TRACreateLineMod.dll|.\TRACreateLineFW\TRACreateLineMod.m
+INT/000/CUS .\win_b64\code\lib\TRACreateLineMod.exp|.\TRACreateLineFW\TRACreateLineMod.m
+BTV/000/CUS .\win_b64\code\lib\TRACreateLineMod.lib|.\TRACreateLineFW\TRACreateLineMod.m
+INT/000/CUS .\win_b64\code\bin\TRACreateLineMod.pdb|.\TRACreateLineFW\TRACreateLineMod.m

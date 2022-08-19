@@ -1,0 +1,7 @@
+!<mkRTViewData> v1.0.0
+DAT/002/CUS .\win_b64\resources\msgcatalog\TRALineCatalog.osm|.\TRACreateLineCatalogFW\CNext\resources\msgcatalog\TRALineCatalog.osm
+RTV/002/DSI .\win_b64\code\productIC\TRACreateLineCatalogFWIC.required|.\TRACreateLineCatalogFW
+DAT/002/CUS .\win_b64\code\dictionary\TRACreateLineCatalogFW.dico|.\TRACreateLineCatalogFW\CNext\code\dictionary\TRACreateLineCatalogFW.dico
+BTV/002/CUS .\win_b64\code\productIC\TRACreateLineCatalogFWIC.script|.\TRACreateLineCatalogFW
+BTV/002/DSI .\win_b64\code\productIC\TRACreateLineCatalogFWIC.xml|.\TRACreateLineCatalogFW
+DAT/002/CUS .\win_b64\resources\msgcatalog\TRALineCatalog.CATfct|.\TRACreateLineCatalogFW\CNext\resources\msgcatalog\TRALineCatalog.CATfct

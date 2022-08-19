@@ -1,0 +1,5 @@
+/I"D:\CATIACAATRADocs\TRACreateLineWS\.\TRACreateLineCatalogFW\TRACreateLineCatalogMod.m\src"
+/I"D:\CATIACAATRADocs\TRACreateLineWS\.\TRACreateLineCatalogFW\TRACreateLineCatalogMod.m\LocalInterfaces"
+/I"D:\CATIACAATRADocs\TRACreateLineWS\.\TRACreateLineCatalogFW\TRACreateLineCatalogMod.m\LocalGenerated\win_b64"
+/I"D:\CATIACAATRADocs\TRACreateLineWS\.\TRACreateLineCatalogFW\PublicInterfaces"
+/I"D:\CATIACAATRADocs\TRACreateLineWS\.\TRACreateLineCatalogFW\ImportedInterfaces\win_b64"

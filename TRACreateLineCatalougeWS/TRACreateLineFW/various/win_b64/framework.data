@@ -1,0 +1,8 @@
+!<mkRTViewData> v1.0.0
+RTV/002/DSI .\win_b64\code\productIC\TRACreateLineFWIC.required|.\TRACreateLineFW
+BTV/002/DSI .\win_b64\code\productIC\TRACreateLineFWIC.xml|.\TRACreateLineFW
+DAT/002/CUS .\win_b64\resources\graphic\TRALineCatalog.osm|.\TRACreateLineFW\CNext\resources\graphic\TRALineCatalog.osm
+DAT/002/CUS .\win_b64\code\dictionary\TRACreateLineFW.dico|.\TRACreateLineFW\CNext\code\dictionary\TRACreateLineFW.dico
+DAT/002/CUS .\win_b64\code\dictionary\TRACreateLineFW.iid|.\TRACreateLineFW\CNext\code\dictionary\TRACreateLineFW.iid
+DAT/002/CUS .\win_b64\resources\graphic\TRALineCatalog.CATfct|.\TRACreateLineFW\CNext\resources\graphic\TRALineCatalog.CATfct
+BTV/002/CUS .\win_b64\code\productIC\TRACreateLineFWIC.script|.\TRACreateLineFW

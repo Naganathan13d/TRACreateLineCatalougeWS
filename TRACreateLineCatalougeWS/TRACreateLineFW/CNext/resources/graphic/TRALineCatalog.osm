@@ -1,0 +1,9 @@
+document `TRALineCatalog.CATfct` {
+	container CATFeatCont #root {
+		catalog_manager `Literals.feat`
+		feature CreateLine#2 GeometricalElement3D#7@`MechMod.feat` #startup #backup_startup(FeatureBackUpGeoElem3D#110@`MechMod.feat`) {
+			specobject Point1 #in
+			specobject Point2 #in
+		}
+	}
+}

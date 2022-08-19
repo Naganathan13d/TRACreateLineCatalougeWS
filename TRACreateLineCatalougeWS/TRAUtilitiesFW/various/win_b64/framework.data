@@ -1,0 +1,5 @@
+!<mkRTViewData> v1.0.0
+BTV/002/CUS .\win_b64\code\productIC\TRAUtilitiesFWIC.script|.\TRAUtilitiesFW
+DAT/002/CUS .\win_b64\code\dictionary\TRAUtilitiesFW.dico|.\TRAUtilitiesFW\CNext\code\dictionary\TRAUtilitiesFW.dico
+BTV/002/DSI .\win_b64\code\productIC\TRAUtilitiesFWIC.xml|.\TRAUtilitiesFW
+RTV/002/DSI .\win_b64\code\productIC\TRAUtilitiesFWIC.required|.\TRAUtilitiesFW

@@ -1,0 +1,5 @@
+!<mkhl> v2.0.1
+@TRADlgStCmdFW\PublicInterfaces
+TRACreateLineStCmd.h
+TRADlgClass.h
+TRADlgStCmdMod.h

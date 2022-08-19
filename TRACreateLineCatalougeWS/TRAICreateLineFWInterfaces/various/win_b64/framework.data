@@ -1,0 +1,6 @@
+!<mkRTViewData> v1.0.0
+BTV/002/CUS .\win_b64\code\productIC\TRAICreateLineFWInterfacesIC.script|.\TRAICreateLineFWInterfaces
+DAT/002/CUS .\win_b64\code\dictionary\TRAICreateLineFWInterfaces.dico|.\TRAICreateLineFWInterfaces\CNext\code\dictionary\TRAICreateLineFWInterfaces.dico
+DAT/002/CUS .\win_b64\code\dictionary\TRAICreateLineFWInterfaces.iid|.\TRAICreateLineFWInterfaces\CNext\code\dictionary\TRAICreateLineFWInterfaces.iid
+BTV/002/DSI .\win_b64\code\productIC\TRAICreateLineFWInterfacesIC.xml|.\TRAICreateLineFWInterfaces
+RTV/002/DSI .\win_b64\code\productIC\TRAICreateLineFWInterfacesIC.required|.\TRAICreateLineFWInterfaces

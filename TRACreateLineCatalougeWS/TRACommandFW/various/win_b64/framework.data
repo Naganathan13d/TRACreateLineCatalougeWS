@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\MyHeader.CATNls|.\TRACommandFW\CNext\resources\msgcatalog\MyHeader.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\MyHeader.CATNls|.\TRACommandFW\CNext\resources\msgcatalog\MyHeader.CATNls
+BTV/002/CUS .\win_b64\code\productIC\TRACommandFWIC.script|.\TRACommandFW
+DAT/002/CUS .\win_b64\resources\graphic\CreateLine.bmp|.\TRACommandFW\CNext\resources\graphic\CreateLine.bmp
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\MyHeader.CATNls|.\TRACommandFW\CNext\resources\msgcatalog\MyHeader.CATNls
+DAT/002/CUS .\win_b64\resources\graphic\Icon\Normal\CreateLine.bmp|.\TRACommandFW\CNext\resources\graphic\Icon\Normal\CreateLine.bmp
+DAT/002/CUS .\win_b64\resources\msgcatalog\MyHeader.CATRsc|.\TRACommandFW\CNext\resources\msgcatalog\MyHeader.CATRsc
+RTV/002/DSI .\win_b64\code\productIC\TRACommandFWIC.required|.\TRACommandFW
+BTV/002/DSI .\win_b64\code\productIC\TRACommandFWIC.xml|.\TRACommandFW
+DAT/002/CUS .\win_b64\code\dictionary\TRACommandFW.dico|.\TRACommandFW\CNext\code\dictionary\TRACommandFW.dico
